@@ -1,0 +1,897 @@
+item_id,category,product
+1,accesories,umbrella
+2,clothing,raincoat
+3,decorative,candles
+4,accesories,comb
+5,clothing,sweaters
+6,handicrafts,wooden horse
+7,homecare,mop
+8,handicrafts,bags
+9,homecare,phenyl
+10,selfcare,napkins
+11,homecare,dhoop batti
+12,kitchen,tawa
+13,homecare,night lamp
+14,homecare,earthern pot
+15,kitchen,clay plate
+16,kitchen,clay cups
+17,kitchen,clay bowl set
+18,kitchen,clay glass
+19,kitchen,dinner set
+20,kitchen,water bottle
+21,kitchen,clay handi
+22,kitchen,clay cooker
+23,kitchen,earthern frigde
+24,selfcare,herbal face creams
+25,selfcare,herbal facewash
+26,food,cashew
+27,food,raisins
+28,food,almonds
+29,food,jaggery
+30,food,pickle
+31,food,ghee
+32,food,chocolates
+33,food,eggs
+34,clothing,saree
+35,clothing,kurti
+36,homecare,bed covers
+37,homecare,table cloth
+38,homecare,bed
+39,accesories,bindi
+40,accesories,sandals
+41,decorative,show pieces
+42,accesories,jewellery
+43,kitchen,straw
+44,decorative,wall hanging
+45,accesories,purse
+46,food,jam
+47,accesories,caps
+48,toys,cars
+49,homecare,sofa set
+50,clothing,sweaters
+51,food,honey
+52,food,basil leaves
+53,accesories,wooden phone cover
+54,food,fitness supplement
+55,selfcare,face mask
+56,accesories,gloves
+57,selfcare,hand sanitizer
+58,homecare,tissue paper
+59,selfcare,hand soaps
+60,homecare,garbage cloth bag
+61,homecare,cleaning liquids
+62,homecare,chairs
+63,homecare,night lamp
+64,accesories,keychains
+65,kitchen,clay soneryahandi
+66,toys,wooden jeep
+67,toys,wooden dolls
+68,toys,wooden airplane
+69,handicrafts,dreamcatcher
+70,handicrafts,paintings
+71,handicrafts,wooden arts
+72,handicrafts,glass paintings
+73,handicrafts,origami
+74,kitchen,wooden spoons
+75,kitchen,wooden fork
+76,selfcare,herbal cough syrup
+77,selfcare,herbal shampoo
+78,kitchen,thermose
+79,homecare,mosquito repelents
+80,homecare,door mats
+81,accesories,hair pins
+82,accesories,wooden bangles
+83,accesories,nosepin
+84,homecare,sandalwood
+85,selfcare,hand moisturizer
+86,selfcare,foot cream
+87,selfcare,face cream
+88,selfcare,kajal
+89,selfcare,lipstick
+90,stationary,painting brush
+91,accesories,makeup brush
+92,accesories,mirror
+93,homecare,ladder
+94,stationary,pens
+95,stationary,scale
+96,stationary,eraser
+97,stationary,sharpner
+98,stationary,books
+99,homecare,photo  frames
+100,homecare,bucket
+101,homecare,mug
+102,kitchen,jug
+103,stationary,colors
+104,stationary,color pencil
+105,food,tropical fruit
+106,food,whole milk
+107,food,pip fruit
+108,food,other vegetables
+109,food,juice
+110,food,rolls/buns
+111,decorative,pot plants
+112,kitchen,butter
+113,kitchen,f/v juice
+114,food,packaged food
+115,food,citrus fruit
+116,food,beef
+117,food,frankfurter
+118,food,chicken
+119,food,specialty bar
+120,food,butter milk
+121,food,bottled water
+122,food,yogurt
+123,food,sausage
+124,food,brown bread
+125,food,hamburger meat
+126,food,root vegetables
+127,food,pork
+128,food,pastry
+129,food,canned beer
+130,food,berries
+131,food,coffee
+132,food,misc. beverages
+133,food,ham
+134,food,turkey
+135,food,curd cheese
+136,food,red/blush wine
+137,food,frozen potato products
+138,kitchen,flour
+139,kitchen,sugar
+140,kitchen,frozen meals
+141,food,herbs
+142,kitchen,soda
+143,homecare,detergent
+144,food,grapes
+145,kitchen,processed cheese
+146,food,fish
+147,food,sparkling wine
+148,homecare,newspapers
+149,food,curd
+150,food,pasta
+151,food,popcorn
+152,food,finished products
+153,food,beverages
+154,food,bottled beer
+155,food,dessert
+156,food,dog food
+157,food,specialty chocolate
+158,food,condensed milk
+159,kitchen,cleaner
+160,kitchen,white wine
+161,food,meat
+162,food,ice cream
+163,food,hard cheese
+164,food,cream cheese
+165,food,liquor
+166,food,pickled vegetables
+167,food,liquor (appetizer)
+168,food,UHT-milk
+169,food,candy
+170,food,onions
+171,selfcare,hair spray
+172,decorative,photo/film
+173,food,domestic eggs
+174,food,margarine
+175,homecare,shopping bags
+176,food,salt
+177,food,oil
+178,food,whipped/sour cream
+179,food,frozen vegetables
+180,food,sliced cheese
+181,kitchen,dish cleaner
+182,food,baking powder
+183,food,specialty cheese
+184,food,salty snack
+185,food,Instant food products
+186,selfcare,pet care
+187,food,white bread
+188,selfcare,female sanitary products
+189,accesories,cling film/bags
+190,selfcare,soap
+191,food,frozen chicken
+192,homecare,house keeping products
+193,food,spread cheese
+194,food,decalcifier
+195,food,frozen dessert
+196,kitchen,vinegar
+197,food,nuts/prunes
+198,food,potato products
+199,food,frozen fish
+200,homecare,hygiene articles
+201,kitchen,artif. sweetener
+202,homecare,light bulbs
+203,food,canned vegetables
+204,food,chewing gum
+205,food,canned fish
+206,kitchen,cookware
+207,food,semi-finished bread
+208,food,cat food
+209,homecare,bathroom cleaner
+210,food,prosecco
+211,food,liver loaf
+212,food,zwieback
+213,food,canned fruit
+214,food,frozen fruits
+215,food,brandy
+216,selfcare,baby cosmetics
+217,food,spices
+218,selfcare,napkins
+219,food,waffles
+220,food,sauces
+221,food,rum
+222,food,chocolate marshmallow
+223,food,long life bakery product
+224,accesories,bags
+225,food,sweet spreads
+226,food,soups
+227,food,mustard
+228,food,specialty fat
+229,food,instant coffee
+230,food,snack products
+231,food,organic sausage
+232,food,soft cheese
+233,food,mayonnaise
+234,selfcare,dental care
+235,kitchen,roll products
+236,kitchen,kitchen towels
+237,homecare,flower soil/fertilizer
+238,kitchen,cereals
+239,food,meat spreads
+240,homecare,dishes
+241,selfcare,male cosmetics
+242,decorative,candles
+243,food,whisky
+244,food,tidbits
+245,food,cooking chocolate
+246,kitchen,seasonal products
+247,food,liqueur
+248,homecare,abrasive cleaner
+249,food,syrup
+250,food,ketchup
+251,selfcare,cream
+252,selfcare,skin care
+253,selfcare,rubbing alcohol
+254,food,nut snack
+255,food,cocoa drinks
+256,homecare,softener
+257,homecare,organic products
+258,food,cake bar
+259,food,honey
+260,food,jam
+261,kitchen,kitchen utensil
+262,decorative,flower (seeds)
+263,food,rice
+264,food,tea
+265,food,salad dressing
+266,food,specialty vegetables
+267,food,pudding powder
+268,food,ready soups
+269,selfcare,make up remover
+270,homecare,toilet cleaner
+271,kitchen,preservation products
+272,selfcare,garments
+273,Furniture,Bookcases
+274,Furniture,Chairs
+275,Office Supplies,Labels
+276,Furniture,Tables
+277,Office Supplies,Storage
+278,Furniture,Furnishings
+279,Office Supplies,Art
+280,Technology,Phones
+281,Office Supplies,Binders
+282,Office Supplies,Appliances
+283,Furniture,Tables
+284,Technology,Phones
+285,Office Supplies,Envelopes
+286,Furniture,Bookcases
+287,Furniture,Chairs
+288,Technology,Phones
+289,Technology,Phones
+290,Office Supplies,Storage
+291,Office Supplies,Storage
+292,Technology,Accessories
+293,Office Supplies,Binders
+294,Office Supplies,Storage
+295,Technology,Accessories
+296,Technology,Phones
+297,Office Supplies,Binders
+298,Office Supplies,Labels
+299,Furniture,Furnishings
+300,Furniture,Chairs
+301,Office Supplies,Fasteners
+302,Technology,Phones
+303,Office Supplies,Storage
+304,Office Supplies,Paper
+305,Furniture,Chairs
+306,Office Supplies,Paper
+307,Technology,Accessories
+308,Office Supplies,Binders
+309,Office Supplies,Art
+310,Technology,Accessories
+311,Office Supplies,Binders
+312,Office Supplies,Paper
+313,Furniture,Furnishings
+314,Furniture,Chairs
+315,Office Supplies,Art
+316,Technology,Phones
+317,Office Supplies,Paper
+318,Office Supplies,Binders
+319,Office Supplies,Paper
+320,Furniture,Chairs
+321,Furniture,Furnishings
+322,Office Supplies,Storage
+323,Office Supplies,Binders
+324,Furniture,Furnishings
+325,Office Supplies,Storage
+326,Furniture,Furnishings
+327,Office Supplies,Appliances
+328,Office Supplies,Binders
+329,Office Supplies,Art
+330,Office Supplies,Storage
+331,Office Supplies,Envelopes
+332,Office Supplies,Storage
+333,Furniture,Chairs
+334,Technology,Accessories
+335,Office Supplies,Labels
+336,Office Supplies,Storage
+337,Office Supplies,Art
+338,Technology,Phones
+339,Office Supplies,Paper
+340,Office Supplies,Paper
+341,Furniture,Furnishings
+342,Office Supplies,Binders
+343,Office Supplies,Binders
+344,Furniture,Furnishings
+345,Office Supplies,Binders
+346,Office Supplies,Appliances
+347,Office Supplies,Paper
+348,Technology,Accessories
+349,Office Supplies,Binders
+350,Office Supplies,Paper
+351,Technology,Accessories
+352,Furniture,Furnishings
+353,Office Supplies,Binders
+354,Technology,Accessories
+355,Technology,Phones
+356,Office Supplies,Art
+357,Technology,Accessories
+358,Furniture,Furnishings
+359,Office Supplies,Art
+360,Office Supplies,Binders
+361,Office Supplies,Fasteners
+362,Office Supplies,Envelopes
+363,Office Supplies,Paper
+364,Office Supplies,Envelopes
+365,Furniture,Tables
+366,Office Supplies,Binders
+367,Furniture,Furnishings
+368,Office Supplies,Binders
+369,Office Supplies,Storage
+370,Office Supplies,Envelopes
+371,Technology,Phones
+372,Furniture,Chairs
+373,Furniture,Tables
+374,Office Supplies,Binders
+375,Office Supplies,Storage
+376,Furniture,Chairs
+377,Furniture,Furnishings
+378,Technology,Phones
+379,Office Supplies,Paper
+380,Office Supplies,Fasteners
+381,Office Supplies,Paper
+382,Office Supplies,Paper
+383,Office Supplies,Art
+384,Office Supplies,Fasteners
+385,Office Supplies,Binders
+386,Office Supplies,Supplies
+387,Furniture,Furnishings
+388,Furniture,Furnishings
+389,Office Supplies,Art
+390,Office Supplies,Envelopes
+391,Office Supplies,Paper
+392,Office Supplies,Appliances
+393,Office Supplies,Storage
+394,Furniture,Furnishings
+395,Technology,Phones
+396,Technology,Phones
+397,Furniture,Chairs
+398,Office Supplies,Binders
+399,Office Supplies,Appliances
+400,Technology,Phones
+401,Office Supplies,Paper
+402,Office Supplies,Paper
+403,Office Supplies,Storage
+404,Office Supplies,Art
+405,Furniture,Chairs
+406,Office Supplies,Labels
+407,Technology,Phones
+408,Office Supplies,Paper
+409,Technology,Accessories
+410,Office Supplies,Envelopes
+411,Office Supplies,Binders
+412,Office Supplies,Art
+413,Technology,Machines
+414,Office Supplies,Storage
+415,Furniture,Chairs
+416,Office Supplies,Art
+417,Office Supplies,Appliances
+418,Technology,Phones
+419,Office Supplies,Paper
+420,Office Supplies,Paper
+421,Furniture,Chairs
+422,Office Supplies,Appliances
+423,Office Supplies,Labels
+424,Office Supplies,Appliances
+425,Furniture,Chairs
+426,Office Supplies,Supplies
+427,Office Supplies,Art
+428,Office Supplies,Storage
+429,Technology,Accessories
+430,Technology,Phones
+431,Technology,Phones
+432,Technology,Accessories
+433,Office Supplies,Binders
+434,Technology,Accessories
+435,Office Supplies,Storage
+436,Office Supplies,Paper
+437,Furniture,Bookcases
+438,Technology,Phones
+439,Office Supplies,Paper
+440,Furniture,Bookcases
+441,Office Supplies,Art
+442,Office Supplies,Envelopes
+443,Office Supplies,Art
+444,Office Supplies,Art
+445,Office Supplies,Storage
+446,Office Supplies,Binders
+447,Office Supplies,Paper
+448,Office Supplies,Paper
+449,Furniture,Tables
+450,Office Supplies,Appliances
+451,Office Supplies,Appliances
+452,Furniture,Furnishings
+453,Technology,Phones
+454,Office Supplies,Storage
+455,Technology,Phones
+456,Office Supplies,Binders
+457,Office Supplies,Fasteners
+458,Office Supplies,Storage
+459,Technology,Accessories
+460,Office Supplies,Labels
+461,Furniture,Bookcases
+462,Technology,Phones
+463,Technology,Machines
+464,Technology,Accessories
+465,Office Supplies,Storage
+466,Technology,Phones
+467,Office Supplies,Fasteners
+468,Office Supplies,Paper
+469,Office Supplies,Binders
+470,Furniture,Furnishings
+471,Technology,Machines
+472,Office Supplies,Art
+473,Office Supplies,Art
+474,Furniture,Tables
+475,Office Supplies,Storage
+476,Furniture,Chairs
+477,Furniture,Chairs
+478,Office Supplies,Binders
+479,Furniture,Tables
+480,Furniture,Tables
+481,Office Supplies,Binders
+482,Furniture,Furnishings
+483,Technology,Accessories
+484,Office Supplies,Paper
+485,Office Supplies,Paper
+486,Furniture,Furnishings
+487,Furniture,Furnishings
+488,Technology,Phones
+489,Furniture,Tables
+490,Furniture,Furnishings
+491,Office Supplies,Art
+492,Furniture,Chairs
+493,Office Supplies,Storage
+494,Office Supplies,Paper
+495,Office Supplies,Appliances
+496,Office Supplies,Paper
+497,Furniture,Chairs
+498,Office Supplies,Paper
+499,Technology,Accessories
+500,Office Supplies,Storage
+501,Office Supplies,Envelopes
+502,Furniture,Furnishings
+503,Office Supplies,Storage
+504,Office Supplies,Storage
+505,Technology,Phones
+506,Technology,Accessories
+507,Office Supplies,Storage
+508,Office Supplies,Binders
+509,Office Supplies,Appliances
+510,Technology,Machines
+511,Technology,Machines
+512,Technology,Phones
+513,Technology,Accessories
+514,Office Supplies,Art
+515,Office Supplies,Fasteners
+516,Office Supplies,Storage
+517,Office Supplies,Envelopes
+518,Office Supplies,Storage
+519,Technology,Accessories
+520,Furniture,Furnishings
+521,Office Supplies,Binders
+522,Office Supplies,Paper
+523,Office Supplies,Art
+524,Office Supplies,Paper
+525,Office Supplies,Paper
+526,Office Supplies,Storage
+527,Office Supplies,Labels
+528,Office Supplies,Binders
+529,Technology,Phones
+530,Furniture,Tables
+531,Office Supplies,Paper
+532,Technology,Accessories
+533,Office Supplies,Paper
+534,Office Supplies,Binders
+535,Office Supplies,Appliances
+536,Office Supplies,Supplies
+537,Office Supplies,Fasteners
+538,Office Supplies,Labels
+539,Technology,Accessories
+540,Furniture,Bookcases
+541,Furniture,Furnishings
+542,Furniture,Chairs
+543,Furniture,Furnishings
+544,Office Supplies,Binders
+545,Office Supplies,Fasteners
+546,Office Supplies,Paper
+547,Office Supplies,Storage
+548,Office Supplies,Paper
+549,Furniture,Furnishings
+550,Office Supplies,Binders
+551,Furniture,Tables
+552,Furniture,Furnishings
+553,Office Supplies,Art
+554,Office Supplies,Binders
+555,Office Supplies,Art
+556,Office Supplies,Art
+557,Furniture,Furnishings
+558,Furniture,Chairs
+559,Furniture,Furnishings
+560,Office Supplies,Labels
+561,Furniture,Furnishings
+562,Technology,Phones
+563,Office Supplies,Paper
+564,Office Supplies,Art
+565,Furniture,Chairs
+566,Technology,Machines
+567,Technology,Phones
+568,Technology,Accessories
+569,Office Supplies,Storage
+570,Office Supplies,Fasteners
+571,Office Supplies,Binders
+572,Technology,Accessories
+573,Furniture,Furnishings
+574,Technology,Phones
+575,Office Supplies,Storage
+576,Furniture,Chairs
+577,Office Supplies,Labels
+578,Office Supplies,Binders
+579,Technology,Phones
+580,Office Supplies,Binders
+581,Office Supplies,Binders
+582,Office Supplies,Binders
+583,Technology,Copiers
+584,Office Supplies,Binders
+585,Office Supplies,Binders
+586,Furniture,Tables
+587,Office Supplies,Fasteners
+588,Office Supplies,Art
+589,Office Supplies,Binders
+590,Office Supplies,Fasteners
+591,Technology,Phones
+592,Office Supplies,Storage
+593,Technology,Phones
+594,Office Supplies,Art
+595,Office Supplies,Paper
+596,Office Supplies,Art
+597,Technology,Accessories
+598,Office Supplies,Paper
+599,Office Supplies,Binders
+600,Office Supplies,Paper
+601,Office Supplies,Binders
+602,Furniture,Bookcases
+603,Office Supplies,Envelopes
+604,Office Supplies,Art
+605,Office Supplies,Paper
+606,Office Supplies,Paper
+607,Office Supplies,Appliances
+608,Office Supplies,Labels
+609,Office Supplies,Labels
+610,Furniture,Chairs
+611,Office Supplies,Art
+612,Furniture,Furnishings
+613,Office Supplies,Storage
+614,Office Supplies,Binders
+615,Office Supplies,Supplies
+616,Office Supplies,Storage
+617,Furniture,Bookcases
+618,Office Supplies,Paper
+619,Office Supplies,Storage
+620,Office Supplies,Binders
+621,Technology,Accessories
+622,Office Supplies,Art
+623,Technology,Accessories
+624,Office Supplies,Paper
+625,Furniture,Tables
+626,Office Supplies,Appliances
+627,Office Supplies,Storage
+628,Office Supplies,Binders
+629,Office Supplies,Paper
+630,Office Supplies,Binders
+631,Technology,Accessories
+632,Furniture,Tables
+633,Technology,Accessories
+634,Technology,Machines
+635,Furniture,Furnishings
+636,Office Supplies,Art
+637,Office Supplies,Binders
+638,Technology,Accessories
+639,Technology,Phones
+640,Technology,Copiers
+641,Office Supplies,Binders
+642,Office Supplies,Binders
+643,Office Supplies,Storage
+644,Office Supplies,Paper
+645,Office Supplies,Supplies
+646,Office Supplies,Storage
+647,Furniture,Bookcases
+648,Office Supplies,Storage
+649,Technology,Accessories
+650,Office Supplies,Paper
+651,Office Supplies,Art
+652,Office Supplies,Appliances
+653,Technology,Accessories
+654,Technology,Copiers
+655,Office Supplies,Paper
+656,Furniture,Tables
+657,Office Supplies,Paper
+658,Office Supplies,Labels
+659,Office Supplies,Paper
+660,Furniture,Bookcases
+661,Furniture,Chairs
+662,Office Supplies,Paper
+663,Furniture,Chairs
+664,Office Supplies,Art
+665,Furniture,Chairs
+666,Office Supplies,Paper
+667,Office Supplies,Art
+668,Office Supplies,Envelopes
+669,Technology,Accessories
+670,Furniture,Furnishings
+671,Office Supplies,Storage
+672,Furniture,Chairs
+673,Furniture,Furnishings
+674,Office Supplies,Binders
+675,Technology,Machines
+676,Office Supplies,Art
+677,Office Supplies,Binders
+678,Technology,Accessories
+679,Technology,Accessories
+680,Office Supplies,Storage
+681,Office Supplies,Storage
+682,Office Supplies,Binders
+683,Technology,Accessories
+684,Technology,Machines
+685,Office Supplies,Paper
+686,Office Supplies,Paper
+687,Furniture,Chairs
+688,Furniture,Furnishings
+689,Office Supplies,Storage
+690,Office Supplies,Storage
+691,Office Supplies,Paper
+692,Furniture,Chairs
+693,Office Supplies,Labels
+694,Furniture,Furnishings
+695,Office Supplies,Art
+696,Office Supplies,Storage
+697,Office Supplies,Art
+698,Office Supplies,Art
+699,Office Supplies,Art
+700,Technology,Phones
+701,Furniture,Tables
+702,Office Supplies,Storage
+703,Technology,Accessories
+704,Furniture,Chairs
+705,Furniture,Chairs
+706,Office Supplies,Envelopes
+707,Office Supplies,Appliances
+708,Technology,Accessories
+709,Office Supplies,Binders
+710,Furniture,Furnishings
+711,Furniture,Tables
+712,Office Supplies,Binders
+713,Office Supplies,Supplies
+714,Office Supplies,Appliances
+715,Furniture,Furnishings
+716,Furniture,Bookcases
+717,Office Supplies,Binders
+718,Office Supplies,Paper
+719,Office Supplies,Storage
+720,Furniture,Bookcases
+721,Technology,Phones
+722,Office Supplies,Storage
+723,Office Supplies,Paper
+724,Office Supplies,Paper
+725,Technology,Phones
+726,Furniture,Furnishings
+727,Office Supplies,Art
+728,Office Supplies,Storage
+729,Technology,Accessories
+730,Office Supplies,Art
+731,Technology,Accessories
+732,Office Supplies,Labels
+733,Furniture,Bookcases
+734,Technology,Phones
+735,Technology,Phones
+736,Technology,Phones
+737,Technology,Accessories
+738,Office Supplies,Art
+739,Office Supplies,Storage
+740,Office Supplies,Envelopes
+741,Technology,Accessories
+742,Furniture,Tables
+743,Office Supplies,Envelopes
+744,Office Supplies,Binders
+745,Furniture,Furnishings
+746,Furniture,Chairs
+747,Furniture,Furnishings
+748,Office Supplies,Binders
+749,Office Supplies,Binders
+750,Furniture,Chairs
+751,Office Supplies,Binders
+752,Office Supplies,Paper
+753,Office Supplies,Binders
+754,Office Supplies,Art
+755,Office Supplies,Art
+756,Office Supplies,Storage
+757,Office Supplies,Binders
+758,Furniture,Furnishings
+759,Technology,Accessories
+760,Office Supplies,Art
+761,Office Supplies,Art
+762,Office Supplies,Art
+763,Technology,Copiers
+764,Office Supplies,Storage
+765,Office Supplies,Paper
+766,Office Supplies,Storage
+767,Technology,Accessories
+768,Office Supplies,Storage
+769,Office Supplies,Binders
+770,Furniture,Tables
+771,Technology,Phones
+772,Technology,Accessories
+773,Office Supplies,Fasteners
+774,Furniture,Chairs
+775,Furniture,Furnishings
+776,Office Supplies,Storage
+777,Office Supplies,Supplies
+778,Office Supplies,Envelopes
+779,Furniture,Chairs
+780,Furniture,Furnishings
+781,Technology,Phones
+782,Office Supplies,Binders
+783,Office Supplies,Storage
+784,Office Supplies,Binders
+785,Office Supplies,Binders
+786,Office Supplies,Appliances
+787,Furniture,Chairs
+788,Technology,Accessories
+789,Technology,Phones
+790,Office Supplies,Storage
+791,Technology,Accessories
+792,Technology,Phones
+793,Furniture,Furnishings
+794,Office Supplies,Binders
+795,Office Supplies,Paper
+796,Office Supplies,Storage
+797,Office Supplies,Binders
+798,Office Supplies,Supplies
+799,Furniture,Chairs
+800,Furniture,Furnishings
+801,Office Supplies,Fasteners
+802,Office Supplies,Storage
+803,Office Supplies,Art
+804,Office Supplies,Labels
+805,Furniture,Tables
+806,Office Supplies,Paper
+807,Furniture,Furnishings
+808,Office Supplies,Binders
+809,Office Supplies,Appliances
+810,Furniture,Furnishings
+811,Office Supplies,Fasteners
+812,Office Supplies,Labels
+813,Technology,Phones
+814,Office Supplies,Paper
+815,Office Supplies,Binders
+816,Office Supplies,Paper
+817,Furniture,Chairs
+818,Office Supplies,Labels
+819,Office Supplies,Fasteners
+820,Office Supplies,Binders
+821,Technology,Phones
+822,Office Supplies,Art
+823,Office Supplies,Paper
+824,Office Supplies,Paper
+825,Office Supplies,Supplies
+826,Office Supplies,Storage
+827,Furniture,Furnishings
+828,Office Supplies,Supplies
+829,Technology,Phones
+830,Technology,Phones
+831,Office Supplies,Appliances
+832,Office Supplies,Binders
+833,Technology,Phones
+834,Furniture,Chairs
+835,Office Supplies,Labels
+836,Technology,Phones
+837,Office Supplies,Paper
+838,Office Supplies,Binders
+839,Office Supplies,Paper
+840,Office Supplies,Art
+841,Technology,Accessories
+842,Office Supplies,Appliances
+843,Technology,Copiers
+844,Technology,Phones
+845,Furniture,Furnishings
+846,Office Supplies,Supplies
+847,Technology,Phones
+848,Technology,Phones
+849,Office Supplies,Supplies
+850,Office Supplies,Storage
+851,Furniture,Furnishings
+852,Office Supplies,Binders
+853,Office Supplies,Binders
+854,Office Supplies,Paper
+855,Office Supplies,Binders
+856,Office Supplies,Art
+857,Technology,Phones
+858,Technology,Phones
+859,Office Supplies,Labels
+860,Office Supplies,Paper
+861,Technology,Phones
+862,Technology,Phones
+863,Office Supplies,Binders
+864,Furniture,Furnishings
+865,Furniture,Furnishings
+866,Office Supplies,Binders
+867,Technology,Phones
+868,Furniture,Furnishings
+869,Office Supplies,Binders
+870,Furniture,Chairs
+871,Office Supplies,Appliances
+872,Office Supplies,Storage
+873,Office Supplies,Art
+874,Furniture,Furnishings
+875,Office Supplies,Appliances
+876,Office Supplies,Binders
+877,Office Supplies,Paper
+878,Office Supplies,Storage
+879,Technology,Accessories
+880,Technology,Phones
+881,Technology,Accessories
+882,Office Supplies,Labels
+883,Furniture,Chairs
+884,Office Supplies,Binders
+885,Office Supplies,Appliances
+886,Furniture,Furnishings
+887,Office Supplies,Binders
+888,Furniture,Furnishings
+889,Office Supplies,Storage
+890,Office Supplies,Labels
+891,Technology,Accessories
+892,Office Supplies,Paper
+893,Office Supplies,Appliances
+894,Office Supplies,Fasteners
+895,Office Supplies,Appliances
+896,Furniture,Furnishings
